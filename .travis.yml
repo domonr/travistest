@@ -1,4 +1,4 @@
 language: objective-c
 osx_image: xcode8.3
 script:
-    - xcodebuild clean build -sdk iphonesimulator -workspace TravisTest.xcworkspace -scheme TravisTest CODE_SIGNING_REQUIRED=NO
+    - xcodebuild clean build -sdk iphonesimulator -project TravisTest.xcodeproj -scheme TravisTest CODE_SIGNING_REQUIRED=NO
