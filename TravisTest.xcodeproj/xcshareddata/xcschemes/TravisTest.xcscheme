@@ -20,6 +20,34 @@
                ReferencedContainer = "container:TravisTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "25C4BEEC1F3AFEDB003F5336"
+               BuildableName = "TravisTestTests.xctest"
+               BlueprintName = "TravisTestTests"
+               ReferencedContainer = "container:TravisTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "25C4BEF71F3AFEDB003F5336"
+               BuildableName = "TravisTestUITests.xctest"
+               BlueprintName = "TravisTestUITests"
+               ReferencedContainer = "container:TravisTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
